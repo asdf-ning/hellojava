@@ -1,3 +1,7 @@
-public static viod(){
-   system.out.println("12354")
+
+public class aaaa{
+	public static viod main(){
+	   system.out.println("12354")
+	}
+	
 }
