@@ -2,7 +2,6 @@
 public class aaaa{
 	public static viod main(){
 	   system.out.println("12354");
-
 	   system.out.println("321321");
 	}
 	
